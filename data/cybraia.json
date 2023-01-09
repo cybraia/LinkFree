@@ -1,0 +1,23 @@
+{
+  "name": "Krishna Mehta",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": " Hi, I’m Krishna. I’m interested in quantum mechanics, security and web development. I’m currently learning web development. I’m looking to collaborate on projects that can blow minds :)",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/KrishnaMorphism",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Follow me on LinkedIn",
+      "url": "https://www.linkedin.com/in/krishna-n-mehta/",
+      "icon": "FaLinkedIn"
+    },
+    {
+      "name": "Follow me on GitHub",
+      "url": "https://github.com/cybraia/",
+      "icon": "FaGithub"
+    }
+    
+}
